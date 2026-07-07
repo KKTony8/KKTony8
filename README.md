@@ -17,7 +17,7 @@
 ```yaml
 name: Tony Wu
 location: Guangzhou, China
-currently_working_on: bioinfomatics, fullstack 
+currently_working_on: study
 currently_learning: how to build small but beautiful thing
 looking_to_collaborate_on: ...
 looking_for_help_with: ...
