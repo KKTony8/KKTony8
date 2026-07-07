@@ -16,10 +16,10 @@
 
 ```yaml
 name: Tony Wu
-location: 
-currently_working_on: 
-currently_learning: 
-looking_to_collaborate_on: 
-looking_for_help_with: 
-ask_me_about: 
-fun_fact: 
+location: Guangzhou, China
+currently_working_on: bioinfomatics, fullstack 
+currently_learning: how to build small but beautiful thing
+looking_to_collaborate_on: ...
+looking_for_help_with: ...
+ask_me_about: ...
+fun_fact: i like small cake.
