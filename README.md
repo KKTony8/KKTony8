@@ -6,7 +6,6 @@
 
 <br/>
 
-[![Twitter](https://img.shields.io/badge/Twitter-@tomw611452-555555?style=flat-square&logo=x&logoColor=white)](https://twitter.com/tomw611452)
 
 </div>
 
